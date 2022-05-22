@@ -46,7 +46,7 @@
 ### 모델 해석
 - 모든 데이터셋의 불량 여부 결정 과정
 - ![image](https://user-images.githubusercontent.com/78893090/169688768-8671dde5-8f55-438e-89ec-e92d4a67a350.png)
-- 각각의 데이터의 결정 요인 확인
+- 각각의 데이터의 판단 요인 확인
 - ![image](https://user-images.githubusercontent.com/78893090/169688825-096e95ae-9101-4109-bf01-a7f869525af5.png)
 
 ### 결론
