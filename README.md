@@ -42,6 +42,8 @@
 - ![image](https://user-images.githubusercontent.com/78893090/169688722-9b3da3b3-eb03-4fb0-a700-fabb88b43a3c.png)
 - 적용된 모델
 - ![image](https://user-images.githubusercontent.com/78893090/169688734-d7dc5d2c-0a4e-4aca-b1e1-7362b80bf5f6.png)
+- 최종 Test_set적용
+- ![image](https://user-images.githubusercontent.com/78893090/174733424-d0d5d013-2514-4328-94a9-6cae33aec4b8.png)
 
 ### 모델 해석
 - 모든 데이터셋의 불량 여부 결정 과정
